@@ -1,0 +1,24 @@
+crewai==0.28.8
+crewai-tools==0.1.6
+
+langchain>=0.1.14
+langchain-community>=0.0.30
+langchain-openai>=0.1.6
+
+openai>=1.40.0
+
+# API server
+fastapi>=0.110.0
+uvicorn>=0.29.0
+
+# HuggingFace LLM backend
+huggingface-hub>=0.22.0
+
+arxiv
+chromadb
+sentence-transformers
+tiktoken
+python-dotenv
+
+# Streamlit UI
+streamlit>=1.35.0
